@@ -23,10 +23,6 @@
   <img src="https://img.shields.io/badge/listening_to-Michael%20Jackson-yellow?style=flat-square" />
 </p>
 
+### My GitHub Contributions
 
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+![Snake animation](https://github.com/hlibpavlyk/hlibpavlyk/blob/output/github-contribution-grid-snake-dark.svg)
