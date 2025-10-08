@@ -22,7 +22,3 @@
   <img src="https://img.shields.io/badge/coding-Django%2FFastAPI-green?style=flat-square" />
   <img src="https://img.shields.io/badge/listening_to-Michael%20Jackson-yellow?style=flat-square" />
 </p>
-
-### My GitHub Contributions
-
-![Snake animation](https://github.com/hlibpavlyk/hlibpavlyk/blob/output/github-contribution-grid-snake-dark.svg)
